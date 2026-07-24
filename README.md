@@ -1,4 +1,4 @@
-### Hi, I'm Immanuel!👋
+## Hi, I'm Immanuel!👋
 
 Passionate about turning raw data into meaningful insights that drive better business decisions, I use data to help businesses make better decisions.
 
