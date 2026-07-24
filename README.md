@@ -31,4 +31,4 @@ Open to opportunities and conversations around business analysis, data-driven de
 [<img align="left" alt="ImmanuelAhanonu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://x.com/immanuelahanonu
-[linkedin]: www.linkedin.com/in/immanuel-ahanonu-39b950405
+[linkedin]: https://www.linkedin.com/in/immanuel-ahanonu-39b950405/
